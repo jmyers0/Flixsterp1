@@ -1,6 +1,6 @@
 # Android Project 3 - Flixster
 
-Submitted by: Eleni Mekonnen
+Submitted by: Jaiden Myers
 
 Flixster is a movie browsing app that allows users to browse movies currently playing in theaters.
 
